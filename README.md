@@ -1,1 +1,9 @@
-# Design-Profissional-
+A disciplina Design Profissional oferece uma formação integral e estratégica para profissionais de tecnologia que desejam não apenas dominar competências técnicas, mas construir carreiras sólidas, éticas e sustentáveis no dinâmico mercado de TI. Esta disciplina foi concebida para capacitar estudantes a navegar com consciência e propósito pelas complexas intersecções entre tecnologia, sociedade e responsabilidade profissional.
+
+O curso está estruturado em uma jornada progressiva que abraça tanto o desenvolvimento pessoal quanto o impacto social da tecnologia. Iniciamos com o desenvolvimento de carreira e imagem profissional, estabelecendo as fundações para uma presença digital estratégica através de plataformas como LinkedIn, GitHub e Dev.to, além da construção de portfolios que comunicam valor profissional de forma autêntica e impactante.
+
+A segunda etapa foca no planejamento de carreira e aprendizado contínuo, explorando as múltiplas oportunidades do mercado de TI - desde desenvolvimento de software até inteligência artificial, passando por segurança cibernética e gestão de tecnologia. A terceira unidade mergulha na ética, cidadania digital e direitos, abordando temas cruciais como LGPD, propriedade intelectual, viés algorítmico e responsabilidade social em IA.
+
+A jornada culmina com sustentabilidade, inclusão e impacto social, explorando como a TI pode ser uma força transformadora para o bem comum. Desde práticas de Green IT até desenvolvimento inclusivo, passando por tecnologias assistivas e diversidade em equipes, você compreenderá como alinhar excelência técnica com propósito social.
+
+A metodologia integra teoria consistente com aplicação prática através de estudos de caso reais, desde o algoritmo de contratação enviesado da Amazon até as iniciativas de sustentabilidade do Google. Cada conceito é contextualizado no mercado brasileiro e global, preparando profissionais para os desafios atuais e futuros da área tecnológica.
